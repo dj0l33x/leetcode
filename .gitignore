@@ -68,3 +68,6 @@ fabric.properties
 *.iml
 out
 gen
+
+# Maven project files
+target/
