@@ -10,6 +10,7 @@
 
 	<modules>
 		<module>jewels_and_stones</module>
+		<module>unique_email_addresses</module>
 	</modules>
 
 	<name>Leetcode</name>
