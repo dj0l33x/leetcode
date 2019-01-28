@@ -11,6 +11,7 @@
 	<modules>
 		<module>jewels_and_stones</module>
 		<module>unique_email_addresses</module>
+		<module>reverse_string</module>
 	</modules>
 
 	<name>Leetcode</name>
