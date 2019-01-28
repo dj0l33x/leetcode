@@ -6,6 +6,11 @@
 	<groupId>io.github.protsenko</groupId>
 	<artifactId>leetcode</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
+	<packaging>pom</packaging>
+
+	<modules>
+		<module>jewels_and_stones</module>
+	</modules>
 
 	<name>Leetcode</name>
 	<description>Solved tasks from Leetcode.com</description>
