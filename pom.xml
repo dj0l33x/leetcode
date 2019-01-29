@@ -13,6 +13,7 @@
 		<module>unique_email_addresses</module>
 		<module>reverse_string</module>
 		<module>base_7</module>
+		<module>binary_tree_paths</module>
 	</modules>
 
 	<name>Leetcode</name>
