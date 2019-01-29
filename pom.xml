@@ -12,6 +12,7 @@
 		<module>jewels_and_stones</module>
 		<module>unique_email_addresses</module>
 		<module>reverse_string</module>
+		<module>base_7</module>
 	</modules>
 
 	<name>Leetcode</name>
