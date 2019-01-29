@@ -14,6 +14,7 @@
 		<module>reverse_string</module>
 		<module>base_7</module>
 		<module>binary_tree_paths</module>
+		<module>path_sum_2</module>
 	</modules>
 
 	<name>Leetcode</name>
