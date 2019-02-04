@@ -15,6 +15,7 @@
 		<module>base_7</module>
 		<module>binary_tree_paths</module>
 		<module>path_sum_2</module>
+		<module>regions_cut_by_slashes</module>
 	</modules>
 
 	<name>Leetcode</name>
