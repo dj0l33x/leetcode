@@ -16,7 +16,8 @@
 		<module>binary_tree_paths</module>
 		<module>path_sum_2</module>
 		<module>regions_cut_by_slashes</module>
-	</modules>
+        <module>add_two_numbers</module>
+    </modules>
 
 	<name>Leetcode</name>
 	<description>Solved tasks from Leetcode.com</description>
