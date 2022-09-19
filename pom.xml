@@ -17,7 +17,9 @@
 		<module>path_sum_2</module>
 		<module>regions_cut_by_slashes</module>
         <module>add_two_numbers</module>
-    </modules>
+		<module>longest_palindromic_substring</module>
+		<module>valid_sudoku</module>
+	</modules>
 
 	<name>Leetcode</name>
 	<description>Solved tasks from Leetcode.com</description>
